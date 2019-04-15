@@ -1,6 +1,8 @@
 # kik-bot-fortniteace
 FortniteAce is a bot written for the Kik messenger application. It allows users to search Fortnite player stats and have it returned as an image. The bot also allows you to compare player stats.
 
+[https://www.kik.com/bots/fortniteace/](https://www.kik.com/bots/fortniteace/)
+
 ## Getting Started
 
 ### Prerequisites
