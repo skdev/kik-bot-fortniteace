@@ -1,11 +1,11 @@
 # kik-bot-fortniteace
-FortniteAce is a bot written for the Kik messenger application. It allows users to search Fortnite player stats and have it returned as an image.The bot also allows you to compare player stats.
+FortniteAce is a bot written for the Kik messenger application. It allows users to search Fortnite player stats and have it returned as an image. The bot also allows you to compare player stats.
 
 ## Getting Started
 
 ### Prerequisites
 1. FortniteAce uses [Gradle](https://gradle.org) so this must be installed on your machine.
-2. A bot must be created through Kik's website to hook this project too [https://dev.kik.com](https://dev.kik.com)
+2. A bot must be created through Kik's website to hook this project [https://dev.kik.com](https://dev.kik.com)
 3. Java 8 or higher
 4. Port 80 open (this can be configured in config.json)
 
